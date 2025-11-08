@@ -1,0 +1,11 @@
+# Build output
+/out/
+*.class
+
+# IDEs
+.idea/
+.vscode/
+*.iml
+
+# OS
+.DS_Store
